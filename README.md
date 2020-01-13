@@ -12,10 +12,9 @@ This Project contains a headline, a button, and four empty objects, which each o
 WebGL RefRes 960x600
 
 ### Visuals: 
+
 <div>   
-    *Screenshot in Unity*
     <img src = "./Screenshots/Screenshot_Unity.png" width="500">
-    *Screenshot Script"
     <img src = "./Screenshots/Screenshot_Script.png" width = "500">
 </div>
 
